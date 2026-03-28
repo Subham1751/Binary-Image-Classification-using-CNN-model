@@ -57,7 +57,7 @@ A custom Convolutional Neural Network (CNN) was designed with the following laye
 
 By training the model over **50 epochs** and utilizing image augmentation techniques, the network learned robust feature representations, achieving excellent generalization:
 
-- **Validation Accuracy:** **92%** 🎉
+- **Validation Accuracy:** **92%**
 - The model successfully minimized validation loss and overcame initial overfitting tendencies observed in earlier epochs.
 
 ## Future Work & Improvements
